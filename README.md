@@ -18,3 +18,6 @@ Place it in the same folder as the Dumper.exe.
 Run Dumper.exe and the dump.cs will be automatically output as an hpp with an sdk structure containing offsets.
 
 Note: I'm actively working on my internal its not even close to done meaning this code is subject to change and this is also my first real release so please don't get cancer from my source
+
+
+With 1.0 comes a big improvement i think anyway i just added a bunch of unity and il2cpp structs at the beginning of the hpp thats generated also it now gets the correct rva's needed
