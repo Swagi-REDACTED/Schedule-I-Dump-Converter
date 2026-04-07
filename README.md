@@ -3,6 +3,7 @@ I made this tool to give me an easy sdk to include in my internal cheat
 
 Directions of use:
 Use il2cpp online converter for executable input GameAssembly.dll at this path:
+
 Code:
 C:\Program Files (x86)\Steam\steamapps\common\Schedule I\GameAssembly.dll
 after its complete input the global-metadata.dat at this path:
